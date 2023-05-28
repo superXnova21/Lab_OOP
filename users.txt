@@ -3,6 +3,5 @@ dope,dope123,0
 Niloy,123,0
 admin,password,1
 Mofazzal,12345678,0
-cdi,123,0
 iqbal,12345,0
 prova,123prova,0
