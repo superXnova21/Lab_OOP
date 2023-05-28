@@ -1,0 +1,4 @@
+rc_bot, 16GA, 23.33
+item3, brand3, 23.1
+item4, brand4, 12.33
+item5, brand5, 1.12
